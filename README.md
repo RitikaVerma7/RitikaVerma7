@@ -4,18 +4,19 @@
 
 ## 🛡️ Expertise
 - **Frameworks:** MITRE ATT&CK, OWASP Top 10
+- **Infrastructure Security:** NIST, CIS, SANS 
 - **Risk Management:** Risk Assessment, Incident Response
 - **Access Management:** IAM Production Access Management
-- **Cloud Security:** Comprehensive strategies for cloud-based environments
+- **Cloud Security:** Cloud Security Alliance(CCM)
 - **Programming Languages:** Python, Shell Scripting, HTML, VB Script, C, Java
-- **Tools:** McAfee DLP, Splunk, RSA Archer eGRC, Tanium, and more
+- **Endpoint Security:** McAfee DLP, Splunk, RSA Archer eGRC, Tanium, and more
 - **Python Libraries:** Proficient in using Pandas, NumPy for data manipulation; Seaborn, Matplotlib for data visualization
 - **Machine Learning:** Skilled in using Scikit-learn and keras
 
 ## 🏆 Education & Certifications
 - **Master of Science in Information Systems**, Santa Clara University, Expected July 2025
 - **Bachelor of Engineering in Computer Science & Engineering**, Visvesvaraya Technological University, June 2014
-- **Certifications:** Python Programming, CompTIA Security+, ISO LA 27001:2013 Lead Auditor, Deep Learning
+- **Certifications:** Python Programming, CompTIA Security+, ISO LA 27001:2013 Lead Auditor, Deep Learning, SANS GISF 301
 
 
 ## 💡 Philosophy
