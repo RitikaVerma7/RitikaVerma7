@@ -3,6 +3,7 @@
 👋 Hi, I'm Ritika Verma, a cybersecurity expert based in Cupertino, CA, with 7 years of rich experience across various facets of cybersecurity. My expertise includes Enterprise Detection and Response, Database Security, Infrastructure Security, and Endpoint Data Loss Prevention (DLP). With a strong foundation in both theoretical and practical aspects of cybersecurity, I've honed my skills in frameworks such as MITRE ATT&CK and OWASP Top 10, and am proficient in Risk Assessment, Incident Response, IAM Production Access Management, and Cloud Security.
 
 ## 🛡️ Expertise
+- **AI/ML Domain:** Generative AI, Natural Language Processing, Deep Learning, Large Language Model, LangChain, RAG, Neural Networks, Pandas, NumPy, TensorFlow, Scikit-learn, NLTK, spaCy, PyTorch, Keras, Matplotlib, Seaborn, Word2Vec
 - **Frameworks:** MITRE ATT&CK, OWASP Top 10
 - **Infrastructure Security:** NIST, CIS, SANS 
 - **Risk Management:** Risk Assessment, Incident Response
@@ -10,8 +11,7 @@
 - **Cloud Security:** Cloud Security Alliance(CCM)
 - **Programming Languages:** Python, Shell Scripting, HTML, VB Script, C, Java
 - **Endpoint Security:** McAfee DLP, Splunk, RSA Archer eGRC, Tanium, and more
-- **Python Libraries:** Proficient in using Pandas, NumPy for data manipulation; Seaborn, Matplotlib for data visualization
-- **Machine Learning:** Skilled in using Scikit-learn and keras
+
 
 ## 🏆 Education & Certifications
 - **Master of Science in Information Systems**, Santa Clara University, Expected July 2025
