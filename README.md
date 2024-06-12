@@ -15,6 +15,8 @@
 
 ## 🏆 Education & Certifications
 - **Master of Science in Information Systems**, Santa Clara University, Expected July 2025
+    - **Major:** Information Systems
+    - **Coursework:** Data Analytics, Python, Machine Learning, Deep Learning,  Natural Language Processing, Generative AI, SQL, Java
 - **Bachelor of Engineering in Computer Science & Engineering**, Visvesvaraya Technological University, June 2014
 - **Certifications:** Python Programming, CompTIA Security+, ISO LA 27001:2013 Lead Auditor, Deep Learning, SANS GISF 301
 
