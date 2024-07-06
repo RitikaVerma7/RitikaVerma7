@@ -7,7 +7,9 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat&logo=internet-explorer&logoColor=white)](https://ritikaverma.tech/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ritika.tanwar7@gmail.com)
 
-Experienced cybersecurity professional with 7.5 years in building and managing security programs in Infrastructure Security & Enterprise Blueprint, conducting risk assessments, and enhancing security operations. Currently advancing my expertise through a master’s degree in information systems, with a specialized focus on integrating AI/ML technologies into cybersecurity practices. Adept at leveraging both traditional and cutting-edge security methodologies to drive significant advancements and ensure robust organizational security.
+
+👋 Hi,
+I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 years of rich experience across various facets of cybersecurity. My expertise includes Enterprise Detection and Response, Database Security, Infrastructure Security, and Endpoint Data Loss Prevention (DLP). With a strong foundation in both theoretical and practical aspects of cybersecurity, I've honed my skills in frameworks such as MITRE ATT&CK and OWASP Top 10, and am proficient in Risk Assessment, Incident Response, IAM Production Access Management, and Cloud Security. Currently advancing my expertise through a master’s degree in information systems, with a specialized focus on integrating AI/ML technologies into cybersecurity practices. 
 
 ---
 
