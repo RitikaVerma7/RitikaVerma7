@@ -8,7 +8,6 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ritika.tanwar7@gmail.com)
 
 
-👋 Hi,
 
 I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 years of rich experience across various facets of cybersecurity. My expertise includes Enterprise Detection and Response, Database Security, Infrastructure Security, and Endpoint Data Loss Prevention (DLP). With a strong foundation in both theoretical and practical aspects of cybersecurity, I've honed my skills in frameworks such as MITRE ATT&CK and OWASP Top 10, and am proficient in Risk Assessment, Incident Response, IAM Production Access Management, and Cloud Security. Currently advancing my expertise through a master’s degree in information systems, with a specialized focus on integrating AI/ML technologies into cybersecurity practices. 
 
@@ -16,52 +15,23 @@ I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 
 
 ## 🔧 Technical Skills
 
-### Security Domain
-- Infrastructure Security
-- OWASP Top 10
-- Incident Response
-- DevSecOps
-- Penetration Testing
-- MITRE ATT&CK
-- Cloud Security
-- Vulnerability Management
-- Risk Assessment
-- Container Security
-- Threat Modelling
-- Compliance
-
-### Security Frameworks & Tools
-- McAfee DLP
-- PhishMe
-- CIS Benchmark
-- Splunk
-- Rapid7
-- PyTM
-- Tanium
-- Qualys
-- Inspec
-- Kali Linux
-- NIST
-- BurpSuite
-
-### AI / ML Domain
-- Generative AI
-- Neural Networks
-- Natural Language Processing
-- Deep Learning
-- LLM Evaluation
-- Topic Modelling
-- LangChain
-- RAG
-
-
-### Additional Skills
-- Agile Methodology
-- System Analysis and Design
-- ER Design
-- UML Diagrams
+| **Security Domain**                         | **Security Frameworks & Tools**     | **AI / ML Domain**                     | **Additional Skills**                  |
+|---------------------------------------------|-------------------------------------|----------------------------------------|----------------------------------------|
+| Infrastructure Security                     | McAfee DLP                          | Generative AI                          | Agile Methodology                      |
+| OWASP Top 10                                | PhishMe                             | Neural Networks                        | System Analysis and Design             |
+| Incident Response                           | CIS Benchmark                       | Natural Language Processing            | ER Design                              |
+| DevSecOps                                   | Splunk                              | Deep Learning                          | Use Case Diagramming                   |
+| Penetration Testing                         | Rapid7                              | LLM Evaluation                         | State Machine Diagramming              |
+| MITRE ATT&CK                                | PyTM                                | Topic Modelling                        |                                        |
+| Cloud Security                              | Tanium                              | LangChain                              |                                        |
+| Vulnerability Management                    | Qualys                              | RAG                                    |                                        |
+| Risk Assessment                             | Inspec                              |                                        |                                        |
+| Container Security                          | Kali Linux                          |                                        |                                        |
+| Threat Modelling                            | NIST                                |                                        |                                        |
+| Compliance                                  | BurpSuite                           |                                        |                                        |
 
 **AI/ML Tech Stack:** Pandas, NumPy, TensorFlow, Scikit-learn, NLTK, spaCy, PyTorch, Keras, Matplotlib, Seaborn, OpenAI GPT, Llama3, Phi3, Hugging Face & Ollama Transformers, OpenAI API, Serp API, MongoDB, Chroma DB, Pinecone DB, Streamlit, Gradio, Word2Vec
+
 
 ---
 
