@@ -9,6 +9,7 @@
 
 
 👋 Hi,
+
 I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 years of rich experience across various facets of cybersecurity. My expertise includes Enterprise Detection and Response, Database Security, Infrastructure Security, and Endpoint Data Loss Prevention (DLP). With a strong foundation in both theoretical and practical aspects of cybersecurity, I've honed my skills in frameworks such as MITRE ATT&CK and OWASP Top 10, and am proficient in Risk Assessment, Incident Response, IAM Production Access Management, and Cloud Security. Currently advancing my expertise through a master’s degree in information systems, with a specialized focus on integrating AI/ML technologies into cybersecurity practices. 
 
 ---
