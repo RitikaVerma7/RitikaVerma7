@@ -8,55 +8,56 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ritika.tanwar7@gmail.com)
 
 
-
-I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 years of rich experience across various facets of cybersecurity. My expertise includes Enterprise Detection and Response, Database Security, Infrastructure Security, and Endpoint Data Loss Prevention (DLP). With a strong foundation in both theoretical and practical aspects of cybersecurity, I've honed my skills in frameworks such as MITRE ATT&CK and OWASP Top 10, and am proficient in Risk Assessment, Incident Response, IAM Production Access Management, and Cloud Security. Currently advancing my expertise through a master’s degree in information systems, with a specialized focus on integrating AI/ML technologies into cybersecurity practices. 
+I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 years of experience across various facets of cybersecurity. My expertise includes Enterprise Detection and Response, Database Security, Infrastructure Security, and Endpoint Data Loss Prevention (DLP). With a strong foundation in both theoretical and practical aspects of cybersecurity, I've honed my skills in frameworks such as MITRE ATT&CK and OWASP Top 10, and am proficient in Risk Assessment, Incident Response, IAM Production Access Management, and Cloud Security. Currently advancing my expertise through a master’s degree in information systems, with a specialized focus on integrating AI/ML technologies into cybersecurity practices. 
 
 ---
 
+## 🔧 Technical Skills
+
 ### Security Domain
-- **Infrastructure Security**
-- **OWASP Top 10**
-- **Incident Response**
-- **DevSecOps**
-- **Penetration Testing**
-- **MITRE ATT&CK**
-- **Cloud Security**
-- **Vulnerability Management**
-- **Risk Assessment**
-- **Container Security**
-- **Threat Modelling**
-- **Compliance**
+- Infrastructure Security
+- OWASP Top 10
+- Incident Response
+- DevSecOps
+- Penetration Testing
+- MITRE ATT&CK
+- Cloud Security
+- Vulnerability Management
+- Risk Assessment
+- Container Security
+- Threat Modelling
+- Compliance
 
 ### Security Frameworks & Tools
-- **McAfee DLP**
-- **PhishMe**
-- **CIS Benchmark**
-- **Splunk**
-- **Rapid7**
-- **PyTM**
-- **Tanium**
-- **Qualys**
-- **Inspec**
-- **Kali Linux**
-- **NIST**
-- **BurpSuite**
+- McAfee DLP
+- PhishMe
+- CIS Benchmark
+- Splunk
+- Rapid7
+- PyTM
+- Tanium
+- Qualys
+- Inspec
+- Kali Linux
+- NIST
+- BurpSuite
 
 ### AI / ML Domain
-- **Generative AI**
-- **Neural Networks**
-- **Natural Language Processing**
-- **Deep Learning**
-- **LLM Evaluation**
-- **Topic Modelling**
-- **LangChain**
-- **RAG**
+- Generative AI
+- Neural Networks
+- Natural Language Processing
+- Deep Learning
+- LLM Evaluation
+- Topic Modelling
+- LangChain
+- RAG
+
 
 ### Additional Skills
-- **Agile Methodology**
-- **System Analysis and Design**
-- **ER Design**
-- **Use Case Diagramming**
-- **State Machine Diagramming**
+- Agile Methodology
+- System Analysis and Design
+- ER Design
+- UML Diagrams
 
 **AI/ML Tech Stack:** Pandas, NumPy, TensorFlow, Scikit-learn, NLTK, spaCy, PyTorch, Keras, Matplotlib, Seaborn, OpenAI GPT, Llama3, Phi3, Hugging Face & Ollama Transformers, OpenAI API, Serp API, MongoDB, Chroma DB, Pinecone DB, Streamlit, Gradio, Word2Vec
 
