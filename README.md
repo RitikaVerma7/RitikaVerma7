@@ -1,7 +1,5 @@
 # Ritika Verma
 
-![Profile Image](https://avatars.githubusercontent.com/u/50701332?v=4)
-
 **Cybersecurity Professional | AI Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikaverma7/)
@@ -53,6 +51,13 @@ Experienced cybersecurity professional with 7.5 years in building and managing s
 - LangChain
 - RAG
 
+
+### Additional Skills
+- Agile Methodology
+- System Analysis and Design
+- ER Design
+- UML Diagrams
+
 **AI/ML Tech Stack:** Pandas, NumPy, TensorFlow, Scikit-learn, NLTK, spaCy, PyTorch, Keras, Matplotlib, Seaborn, OpenAI GPT, Llama3, Phi3, Hugging Face & Ollama Transformers, OpenAI API, Serp API, MongoDB, Chroma DB, Pinecone DB, Streamlit, Gradio, Word2Vec
 
 ---
@@ -70,28 +75,23 @@ Experienced cybersecurity professional with 7.5 years in building and managing s
 
 ## 💼 Experience
 
-### Box, Inc. | Cupertino, California
-**AI / Natural Language Processing (NLP) Intern**  
-*Jan 2024 – June 2024*
-- Developed and implemented a recurrent neural network (RNN) with LSTM architecture, achieving 94% precision in classification tasks, enhancing data extraction capabilities from textual content.
-
-### Santa Clara University | Santa Clara, California
-**Generative AI - Teaching Assistant**  
-*April 2024 – May 2024*
-- Assisted in the administration of a Generative AI course, contributing to the enhancement of the educational experience for over 30 students.
-
-### SAP Labs | Bengaluru, Karnataka
-**Cyber Security Design Specialist**  
-*July 2021 – April 2022*
-- Analyzed and improved EDR solutions based on incident response (IR) requirements, reducing mean-time-to-response by 20%.
+- **Box, Inc.** - AI / Natural Language Processing (NLP) Intern (Jan 2024 – June 2024)
+- **Santa Clara University** - Generative AI - Teaching Assistant (April 2024 – May 2024)
+- **SAP Labs** - Cyber Security Design Specialist (July 2021 – April 2022)
+- **SAP Ariba** - Security Consultant (April 2019 – July 2021)
+- **SAP SuccessFactors** - Security Consultant (May 2018 – April 2019)
+- **Accenture** - Security Analyst (July 2014 – May 2018)
 
 ---
 
 ## 🔬 Projects
-- **[Cybersecurity Compliance and Remediation Automation](https://github.com/RitikaVerma7)** - Developed a local Retrieval-Augmented Generation (RAG), providing dynamic cybersecurity recommendations and detailed remediation plans for security vulnerabilities.
+- **[Cybersecurity Compliance and Remediation Automation](https://github.com/RitikaVerma7/GenerativeAI/tree/main/Cybersecurity%20Recommendation%20%26%20Compliance%20Project)** - Developed a local Retrieval-Augmented Generation (RAG), providing dynamic cybersecurity recommendations and detailed remediation plans for security vulnerabilities.
 - **[Chatbot - RAG with Evaluation](https://github.com/RitikaVerma7/Chatbot-RAG_with_Evaluation)** - Created and evaluated (using LLM evaluation, Llama Index) a Retrieval-Augmented Generation (RAG) powered chatbot designed to answer questions related to auto insurance policies.
-- **[Lease Recommendation Application Generator](https://github.com/RitikaVerma7)** - Engineered a custom application using OpenAI embeddings, resulting in a personalized relocation service platform for tailored suggestions.
-- **[Skincare Recommendation & Pricing System](https://github.com/RitikaVerma7)** - Developed a sophisticated ML-driven system for skincare recommendation and price forecasting, achieving 85% score for classification.
+- **[Lease Recommendation Application Generator](https://github.com/RitikaVerma7/GenerativeAI/tree/main/Lease%20Recommendation%20Project)** - Engineered a custom application using OpenAI embeddings, resulting in a personalized relocation service platform for tailored suggestions.
+- **[Skincare Recommendation & Pricing System](https://github.com/RitikaVerma7/MachineLearning/tree/main/ML%20Skincare%20Project)** - Developed a sophisticated ML-driven system for skincare recommendation and price forecasting, achieving 85% score for classification.
+- **[E-Learning Platform](https://github.com/RitikaVerma7)** - Designed comprehensive database for Coursera, optimizing educational delivery through efficient data management and personalized learning recommendations.
+- **[Food Delivery Application](https://github.com/RitikaVerma7)** - Designed a robust system implementing Agile methodology, to resolve key problems in food delivery for both customers and restaurants, enhancing operational efficiency and customer satisfaction through advanced search, live tracking, and optimized delivery.
+
 
 ---
 
@@ -115,7 +115,7 @@ Experienced cybersecurity professional with 7.5 years in building and managing s
 
 **Professional Memberships:** Member of Women in Cybersecurity (WiCyS).
 
-**Mentorship Experience:** Generative AI mentor, providing guidance to students AI/ML projects; mentor for Company’s new joiners.
+**Mentorship Experience:** Generative AI mentor, providing guidance to students on AI/ML projects; mentor for Company’s new joiners.
 
 **Community Involvement:** Monthly contributor to a children's education center from 2018 to 2022.
 
