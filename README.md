@@ -76,6 +76,7 @@ I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 
 
 ## 💼 Experience
 
+- **Santa Clara University** - Reseach Assistant - AI Security (July 2024 – Present)
 - **Box, Inc.** - AI / Natural Language Processing (NLP) Intern (Jan 2024 – June 2024)
 - **Santa Clara University** - Generative AI - Teaching Assistant (April 2024 – May 2024)
 - **SAP Labs** - Cyber Security Design Specialist (July 2021 – April 2022)
