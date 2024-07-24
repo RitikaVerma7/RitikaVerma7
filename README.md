@@ -111,14 +111,16 @@ I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 
 
 ## 🌐 Additional Information
 
-**Interests:** Neuroscience, Psychology, Yoga, Mindfulness, Skincare, Dancing, Fitness.
-
 **Leadership Experience:** President of AI Club at Santa Clara University; event organizer for internal corporate events; budget management.
 
-**Professional Memberships:** Member of Women in Cybersecurity (WiCyS).
+**CTF Experience:** Actively participates in Pacific Hacker’s CTF challenges
+
+**Professional Memberships:** Member of Women in Cybersecurity (WiCyS), NIST/ NICE Cybersecurity Career Ambassador
 
 **Mentorship Experience:** Generative AI mentor, providing guidance to students on AI/ML projects; mentor for Company’s new joiners.
 
 **Community Involvement:** Monthly contributor to a children's education center from 2018 to 2022.
+
+**Interests:** Neuroscience, Psychology, Yoga, Mindfulness, Skincare, Dancing, Fitness.
 
 ---
