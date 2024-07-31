@@ -30,7 +30,8 @@ I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 
 
 ### Santa Clara University, Leavey School of Business | Santa Clara, CA
 **Master of Science in Information Systems**  
-*March 2025* 
+*March 2025*
+ 
 *GPA: 3.9/4.0 Dean's List: Spring 2024*
 
 ### Visvesvaraya Technological University | Bengaluru, Karnataka
