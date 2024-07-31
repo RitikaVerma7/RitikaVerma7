@@ -1,6 +1,6 @@
 # Ritika Verma
 
-**Cybersecurity Professional | AI Enthusiast**
+**Cybersecurity Professional | AI Specialist**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikaverma7/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/RitikaVerma7)
