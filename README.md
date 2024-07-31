@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikaverma7/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/RitikaVerma7)
-[![Blog](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat&logo=internet-explorer&logoColor=white)](https://blog.ritikaverma.tech/)
+[![Blog](https://img.shields.io/badge/-Blog-blueviolet?style=flat&logo=internet-explorer&logoColor=white)](https://blog.ritikaverma.tech/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ritika.tanwar7@gmail.com)
 
 
