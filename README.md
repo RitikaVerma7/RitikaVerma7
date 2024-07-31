@@ -14,6 +14,29 @@ I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 
 - Currently advancing my expertise through a master’s degree in information systems, with a specialized focus on integrating AI/ML technologies into cybersecurity practices. 
 
 ---
+## 💼 Experience
+
+- **Santa Clara University** - Reseach Assistant - AI Security (July 2024 – Present)
+- **Box, Inc.** - AI / Natural Language Processing (NLP) Intern (Jan 2024 – June 2024)
+- **Santa Clara University** - Generative AI - Teaching Assistant (April 2024 – May 2024)
+- **SAP Labs** - Cyber Security Design Specialist (July 2021 – April 2022)
+- **SAP Ariba** - Security Consultant (April 2019 – July 2021)
+- **SAP SuccessFactors** - Security Consultant (May 2018 – April 2019)
+- **Accenture** - Security Analyst (July 2014 – May 2018)
+
+---
+
+## 🎓 Education
+
+### Santa Clara University, Leavey School of Business | Santa Clara, CA
+**Master of Science in Information Systems**  
+*March 2025*
+
+### Visvesvaraya Technological University | Bengaluru, Karnataka
+**Bachelor of Engineering, Computer Science & Engineering**  
+*June 2014*
+
+---
 
 ## 🔧 Technical Skills
 
@@ -77,18 +100,6 @@ I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 
 
 ---
 
-## 💼 Experience
-
-- **Santa Clara University** - Reseach Assistant - AI Security (July 2024 – Present)
-- **Box, Inc.** - AI / Natural Language Processing (NLP) Intern (Jan 2024 – June 2024)
-- **Santa Clara University** - Generative AI - Teaching Assistant (April 2024 – May 2024)
-- **SAP Labs** - Cyber Security Design Specialist (July 2021 – April 2022)
-- **SAP Ariba** - Security Consultant (April 2019 – July 2021)
-- **SAP SuccessFactors** - Security Consultant (May 2018 – April 2019)
-- **Accenture** - Security Analyst (July 2014 – May 2018)
-
----
-
 ## 🔬 Projects
 - **[Cybersecurity Compliance and Remediation Automation](https://github.com/RitikaVerma7/GenerativeAI/tree/main/Cybersecurity%20Recommendation%20%26%20Compliance%20Project)** - Developed a local Retrieval-Augmented Generation (RAG), providing dynamic cybersecurity recommendations and detailed remediation plans for security vulnerabilities.
 - **[Chatbot - RAG with Evaluation](https://github.com/RitikaVerma7/Chatbot-RAG_with_Evaluation)** - Created and evaluated (using LLM evaluation, Llama Index) a Retrieval-Augmented Generation (RAG) powered chatbot designed to answer questions related to auto insurance policies.
@@ -97,18 +108,6 @@ I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 
 - **[E-Learning Platform](https://github.com/RitikaVerma7)** - Designed comprehensive database for Coursera, optimizing educational delivery through efficient data management and personalized learning recommendations.
 - **[Food Delivery Application](https://github.com/RitikaVerma7)** - Designed a robust system implementing Agile methodology, to resolve key problems in food delivery for both customers and restaurants, enhancing operational efficiency and customer satisfaction through advanced search, live tracking, and optimized delivery.
 
-
----
-
-## 🎓 Education
-
-### Santa Clara University, Leavey School of Business | Santa Clara, CA
-**Master of Science in Information Systems**  
-*June 2025*
-
-### Visvesvaraya Technological University | Bengaluru, Karnataka
-**Bachelor of Engineering, Computer Science & Engineering**  
-*June 2014*
 
 ---
 
