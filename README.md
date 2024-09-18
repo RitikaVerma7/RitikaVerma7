@@ -92,6 +92,8 @@ I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 
 
 ## 📚 Professional Trainings and Certifications
 - OSWA, Offensive Security WEB-200 (ongoing), 2024
+- AI Security & Governance, Securiti, 2024
+- Kubernetes, LinkedIn Learning, 2024
 - Deep Learning Specialization, DeepLearning.AI, 2024
 - Python Programming, Google, 2023
 - SANS GIAC 301 Information Security Fundamentals (GISF), 2017
