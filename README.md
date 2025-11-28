@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ritika.tanwar7@gmail.com)
 
 
-I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 years of experience across various facets of cybersecurity. 
+I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 8 years of experience across various facets of cybersecurity. 
 - My expertise includes AI Security, Security Engineering, Infrastructure Security, and Security Operations. With a strong foundation in both theoretical and practical aspects of cybersecurity.
 - I've honed my skills in frameworks such as MITRE ATT&CK and OWASP Top 10, and am proficient in Risk Assessment, Incident Response, IAM Production Access Management, and Cloud Security.
 - Currently advancing my expertise through a master’s degree in information systems, with a specialized focus on integrating cybersecurity practices into AI/ML technologies. 
@@ -16,7 +16,8 @@ I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 
 ---
 ## 💼 Experience
 
-- **Santa Clara University** - Reseach Assistant - AI Security (July 2024 – Present)
+- **Institute for Security and Technology** - Senior AI Security Analyst (Oct 2025 – Present)
+- **Santa Clara University** - Reseach Assistant - AI Security (July 2024 – June 2025)
 - **Box, Inc.** - AI / Natural Language Processing (NLP) Intern (Jan 2024 – June 2024)
 - **Santa Clara University** - Generative AI - Teaching Assistant (April 2024 – May 2024)
 - **SAP Labs** - Cyber Security Design Specialist (July 2021 – April 2022)
@@ -30,8 +31,8 @@ I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 
 
 ### Santa Clara University, Leavey School of Business | Santa Clara, CA
 **Master of Science in Information Systems**  
-*March 2025*
-*GPA: 3.9/4.0 Dean's List: Spring 2024*
+*June 2025*
+*GPA: 3.9/4.0 Dean's List*
 
 ### Visvesvaraya Technological University | Bengaluru, Karnataka
 **Bachelor of Engineering, Computer Science & Engineering**  
@@ -42,6 +43,7 @@ I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 
 ## 🔧 Technical Skills
 
 ### Security Domain
+- AI/ML Security
 - Infrastructure Security
 - OWASP Top 10
 - Incident Response
@@ -68,7 +70,7 @@ I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 
 - Inspec
 - Kali Linux
 - NIST
-- BurpSuite
+- BurpSuite,..
 
 ### AI / ML Domain
 - Generative AI
@@ -92,7 +94,10 @@ I'm Ritika Verma, a cybersecurity professional based in Cupertino, CA, with 7.5 
 ---
 
 ## 📚 Professional Trainings and Certifications
-- OSWA, Offensive Security WEB-200 (ongoing), 2024
+- MCP Security Fundamentals, APISEC University 2025
+- SANS GIAC 504 Hacker Tools, Techniques, and Incident Handling (GCIH), 2025
+- SANS GIAC 401 Security Essentials Certification (GSEC), 2025
+- SANS GIAC 275 Foundational Cybersecurity Technologies (GFACT), 2025
 - AI Security & Governance, Securiti, 2024
 - Kubernetes, LinkedIn Learning, 2024
 - Deep Learning Specialization, DeepLearning.AI, 2024
